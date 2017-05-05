@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package>
 	<metadata>
-		<id>JekyllExtension</id>
-		<title>Jekyll</title>
-		<version>0.1.9</version>
-		<authors>Cory Fowler</authors>
+		<id>JekyllExtensionWithPagination</id>
+		<title>Jekyll with Pagination</title>
+		<version>0.0.1</version>
+		<authors>Sidney Andrews</authors>
 		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
-		<projectUrl>https://github.com/SyntaxC4-MSFT/JekyllExtension</projectUrl>
+		<projectUrl>https://github.com/seesharprun/JekyllExtensionWithPagination</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<description>Adds Jekyll Support to Azure Web App</description>
+		<description>Adds Jekyll Support to Azure Web App with jekyll-pagination support. Based on the great work by Cory Fowler: https://github.com/SyntaxC4-MSFT/JekyllExtension.</description>
 		<iconUrl>https://cfowlersiteextensions.blob.core.windows.net/ico/jekyll.png</iconUrl>
-		<tags>ruby jekyll staticsite</tags>
+		<tags>ruby jekyll staticsite pagination</tags>
 	</metadata>
 	<files>
 		<file src="Content\**\*.*" target="Content" />
