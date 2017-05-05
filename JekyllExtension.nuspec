@@ -3,7 +3,7 @@
 	<metadata>
 		<id>JekyllExtensionWithPagination</id>
 		<title>Jekyll with Pagination</title>
-		<version>0.0.1</version>
+		<version>0.0.2</version>
 		<authors>Sidney Andrews</authors>
 		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
 		<projectUrl>https://github.com/seesharprun/JekyllExtensionWithPagination</projectUrl>
